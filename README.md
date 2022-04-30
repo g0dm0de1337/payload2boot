@@ -10,3 +10,13 @@ go to termux
 git clone https://github.com/g0dm0de1337/payload2boot
 
 cd payload2boot
+chmod +x *
+sh sh.sh
+
+wait for finished !!
+
+cd $HOME/termux_payload
+
+python payload_dumper.py payload.bin
+
+cd $HOME/termux_dumper/output
