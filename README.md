@@ -20,3 +20,4 @@ cd $HOME/termux_payload
 python payload_dumper.py payload.bin
 
 cd $HOME/termux_dumper/output
+
