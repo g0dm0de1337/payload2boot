@@ -8,3 +8,5 @@ unzip the payload.bin in the folder
 
 go to termux
 git clone https://github.com/g0dm0de1337/payload2boot
+
+cd payload2boot
