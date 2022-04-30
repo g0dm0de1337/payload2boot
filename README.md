@@ -2,6 +2,7 @@
 sh sh.sh
 
 copy your "OTA.zip" in a new folder named "Boot" on your SD-Card.
+(/sdcard/Boot/)
 
 unzip the payload.bin in the folder 
 
